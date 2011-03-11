@@ -1,0 +1,83 @@
+@charset "utf-8";
+body  {
+	margin:0;
+	background-image: url(img/top_back.png);
+	background-repeat: repeat-x;
+}
+body, td, div, p {
+	font-family: tahoma;
+	color: #333;
+	font-size: 12px;
+}
+
+
+.head {
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+	font-weight: bold;
+}
+
+.bichko {
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+}
+.menu {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.footer {
+	height: 80px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.balance {
+	font-family: "Times New Roman";
+	font-size: 36px;
+}
+.login {
+	font-family: "Times New Roman";
+	font-size: 30px;
+}
+
+.cell {
+	padding: 8px;
+}
+.Active {
+	color: #090;
+	font-size: 17px;
+}
+.InActive {
+	color: #F00;
+	font-size: 17px;
+}
+.hm{
+	background-color: #E2E4D9;
+	color: #000000;
+	margin-left: 5px;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+	padding-top: 9px;
+	padding-right: 20px;
+	padding-bottom: 9px;
+	padding-left: 20px;
+}
+.hm:hover {
+	background-color: #2597D6;
+	color: #FFFFFF;
+	margin-left: 5px;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+	padding-top: 9px;
+	padding-right: 20px;
+	padding-bottom: 9px;
+	padding-left: 20px;
+}
